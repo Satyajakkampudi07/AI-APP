@@ -48,4 +48,4 @@ This Android application provides a seamless user experience for logging in or r
   - Referenced various tutorials to implement Firebase authentication and API integration.
 
 ## Contact and Support
-For any queries or issues, feel free to contact the maintainers or open an issue in the repository. Enjoy a seamless and secure chat experience with our Firebase-Authenticated Login and Registration App!
+For any queries or issues, feel free to contact. Enjoy a seamless and secure chat experience with our Firebase-Authenticated Login and Registration App!
